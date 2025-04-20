@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Passengers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Passenger>
+    <Luggage Name="Чемодан" Weight="20.5" />
+    <Luggage Name="Сумка" Weight="5.3" />
+  </Passenger>
+  <Passenger>
+    <Luggage Name="Рюкзак" Weight="8.7" />
+    <Luggage Name="Коробка" Weight="3.2" />
+    <Luggage Name="Саквояж" Weight="4.1" />
+  </Passenger>
+  <Passenger>
+    <Luggage Name="Сумка" Weight="2.8" />
+  </Passenger>
+  <Passenger>
+    <Luggage Name="Чемодан" Weight="15" />
+    <Luggage Name="Рюкзак" Weight="6.1" />
+    <Luggage Name="Портфель" Weight="2.5" />
+    <Luggage Name="Кейс" Weight="1.8" />
+  </Passenger>
+  <Passenger>
+    <Luggage Name="Дорожная сумка" Weight="9.4" />
+  </Passenger>
+  <Passenger>
+    <Luggage Name="Спортивная сумка" Weight="7.2" />
+    <Luggage Name="Чемодан" Weight="12.3" />
+    <Luggage Name="Пакет" Weight="0.9" />
+  </Passenger>
+</Passengers>
