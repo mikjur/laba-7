@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>
+    <Id>1</Id>
+    <Name>Item1</Name>
+    <Value>10.5</Value>
+  </Item>
+  <Item>
+    <Id>2</Id>
+    <Name>Item2</Name>
+    <Value>20.3</Value>
+  </Item>
+</Data>
